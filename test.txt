@@ -7,3 +7,7 @@ http://yakinikunotare.boo.jp/orebase/index.php?Git%2F%B0%EC%BF%CD%A4%C7%BB%C8%A4
 上手くいかない。
 http://d.hatena.ne.jp/sinsoku/20100225/1267030018
 ここも参考にしてみる。
+
+http://macken.blogs.com/coding/2010/12/cygwin-git%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AFgit-bashmingw32%E3%81%A7%E5%9B%9E%E9%81%BF.html
+"#git bash起動時、ウインドウが英語フォントになっていた場合、管理者権限で一度起動し、左上右クリック->プロパティからフォントを選び、MSゴシックからラスターフォントにすること。"
+これでいけたっぽい？
