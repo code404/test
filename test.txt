@@ -3,3 +3,7 @@ test!
 Git Bushのフォントを変更して日本語コメントできるかなって。
 http://yakinikunotare.boo.jp/orebase/index.php?Git%2F%B0%EC%BF%CD%A4%C7%BB%C8%A4%C3%A4%C6%A4%DF%A4%EB%A1%CAmsysgit%CA%D4%A1%CB
 ↑を参考に日本語に対応させた。
+
+上手くいかない。
+http://d.hatena.ne.jp/sinsoku/20100225/1267030018
+ここも参考にしてみる。
